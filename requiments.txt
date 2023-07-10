@@ -1,0 +1,6 @@
+duckdb==0.8.1
+pandas==2.0.3
+seaborn==0.12.1
+matplotlib==3.6.2
+polars==0.18.6
+pyarrow==12.0.1
