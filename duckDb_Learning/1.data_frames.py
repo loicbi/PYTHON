@@ -29,7 +29,7 @@ duckdb.sql(f'SELECT {end_time_pl} as timeExecuted').show()
 
 # Writing Data top Disk
 duckdb.sql("SELECT 'Loic' as colVarchar, 123 as NumberCol").write_parquet(
-    '//datasets/output/out.parquet',
+    'C:/Users/aseka/source/_________LOIC_BI__________/_______Learning__All/SnowFlake/PYTHON/datasets/output/out.parquet',
     compression='gzip')
 
 # Copy to file
@@ -39,7 +39,7 @@ duckdb.sql(
 # Copy file csv to parquet
 duckdb.sql(
     'SELECT * FROM "C:/Users/aseka/source/_________LOIC_BI__________/_______Learning__All/SnowFlake/python/datasets/training_azure_flights_2016.csv"').write_parquet(
-    '//datasets/output/training_azure_flights_2016.parquet')
+    'C:/Users/aseka/source/_________LOIC_BI__________/_______Learning__All/SnowFlake/PYTHON/datasets/output/training_azure_flights_2016.parquet')
 
 # Persistent Storage
 con = duckdb.connect('connection/file.db')

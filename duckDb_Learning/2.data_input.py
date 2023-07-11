@@ -14,10 +14,10 @@ duckdb.sql(
 
 # set read_csv inside
 
-duckdb.read_csv(
-    "//datasets/training_azure_flights_2016.CSV",
-    header=True, delimiter=',',
-).show()
+# duckdb.read_csv(
+#     "//datasets/training_azure_flights_2016.CSV",
+#     header=True, delimiter=',',
+# ).show()
 
 # Parquet
 duckdb.sql(
