@@ -1,0 +1,331 @@
+{
+  'meta': {
+    'httpStatus': '200 - OK',
+    'requestId': '988aa23c-4fcf-498a-8175-ba630bb1df96'
+  },
+  'result': {
+    'QuestionCount': '3',
+    'SurveyOptions': {
+      'BackButton': 'false',
+      'SaveAndContinue': 'true',
+      'SurveyProtection': 'PublicSurvey',
+      'BallotBoxStuffingPrevention': 'false',
+      'NoIndex': 'Yes',
+      'SecureResponseFiles': 'true',
+      'SurveyExpiration': 'None',
+      'SurveyTermination': 'DefaultMessage',
+      'Header': '<p style="text-align: center;"><span style="font-size:48px;"><strong>Votre opinion compte</strong></span></p>\n\n<div style="text-align: center;"><br />\nVotre opinion est importante pour nous. Chez Medicine Shoppe, nous cherchons toujours &agrave; am&eacute;liorer votre exp&eacute;rience. Nous vous remercions de bien vouloir nous accorder quelques minutes pour r&eacute;pondre &agrave; ce court questionnaire.</div>\n',
+      'Footer': '',
+      'ProgressBarDisplay': 'None',
+      'PartialData': '+1 week',
+      'ValidationMessage': None,
+      'PreviousButton': '',
+      'NextButton': 'Soumettre',
+      'SurveyTitle': 'Votre opinion compte',
+      'SkinLibrary': 'mckessoncanada',
+      'SkinType': 'component',
+      'Skin': {
+        'brandingId': '9329620034',
+        'templateId': '*simple',
+        'overrides': {
+          'logo': {
+            'url': 'https://mckessoncanada.qualtrics.com/CP/Graphic.php?IM=IM_a5J3nDLcdSvaVOm',
+            'position': 'center'
+          },
+          'background': {
+            'color': '#01215b'
+          }
+        }
+      },
+      'NewScoring': 1,
+      'SurveyMetaDescription': 'Votre opinion est importante pour nous. Chez Guardian, nous cherchons toujours à améliorer votre expérience. Nous vous remercions de bien vouloir nous accorder quelques minutes pour répondre à ce court questionnaire.',
+      'EOSMessage': None,
+      'ShowExportTags': 'false',
+      'CollectGeoLocation': 'false',
+      'PasswordProtection': 'No',
+      'AnonymizeResponse': 'No',
+      'RefererCheck': 'No',
+      'BallotBoxStuffingPreventionBehavior': None,
+      'BallotBoxStuffingPreventionMessage': None,
+      'BallotBoxStuffingPreventionMessageLibrary': None,
+      'BallotBoxStuffingPreventionURL': None,
+      'RecaptchaV3': 'false',
+      'ConfirmStart': False,
+      'AutoConfirmStart': False,
+      'RelevantID': 'false',
+      'RelevantIDLockoutPeriod': '+30 days',
+      'UseCustomSurveyLinkCompletedMessage': None,
+      'SurveyLinkCompletedMessage': None,
+      'SurveyLinkCompletedMessageLibrary': None,
+      'ResponseSummary': 'No',
+      'EOSMessageLibrary': None,
+      'EOSRedirectURL': None,
+      'EmailThankYou': 'false',
+      'ThankYouEmailMessageLibrary': None,
+      'ThankYouEmailMessage': None,
+      'ValidateMessage': 'false',
+      'ValidationMessageLibrary': None,
+      'InactiveSurvey': 'DefaultMessage',
+      'PartialDeletion': None,
+      'PartialDataCloseAfter': 'LastActivity',
+      'InactiveMessageLibrary': None,
+      'InactiveMessage': None,
+      'AvailableLanguages': {
+        'FR-CA': []
+      },
+      'CustomLanguages': [],
+      'CustomStyles': [],
+      'headerMid': '',
+      'SurveyCreationDate': '2023-02-15T20:23:43Z',
+      'ProtectSelectionIds': True,
+      'SurveyName': 'NPS Survey - Medicine Shoppe (FR)',
+      'SurveyLanguage': 'FR-CA',
+      'ActiveResponseSet': 'RS_a8ErPBje6PQi1CK',
+      'SurveyStartDate': None,
+      'SurveyExpirationDate': None
+    },
+    'SurveyID': 'SV_8jC7Blg2OEmwhp4',
+    'SurveyName': 'NPS Survey - Medicine Shoppe (FR)',
+    'SurveyStatus': 'Active',
+    'LastModified': '2023-03-16T20:17:12Z',
+    'BrandID': 'mckessoncanada',
+    'OwnerID': 'UR_8oYHqRbPQbjQLEa',
+    'DivisionID': 'DV_6V8aAgSZpF5gvxY',
+    'LastAccessed': None,
+    'CreatorID': 'UR_8oYHqRbPQbjQLEa',
+    'LastActivated': '2023-02-15T20:25:12Z',
+    'Questions': {
+      'QID1': {
+        'QuestionText': '<strong>Avez-vous visité une pharmacie Medicine Shoppe au cours des 3&nbsp;derniers mois?</strong>',
+        'DataExportTag': 'Q1',
+        'QuestionType': 'MC',
+        'Selector': 'SAVR',
+        'SubSelector': 'TX',
+        'Configuration': {
+          'QuestionDescriptionOption': 'UseText',
+          'Autoscale': {
+            'YScale': {
+              'Name': 'yesNo',
+              'Type': 'likert',
+              'Reverse': True
+            }
+          }
+        },
+        'QuestionDescription': 'Avez-vous visité une pharmacie Medicine Shoppe au cours des 3\xa0derniers mois?',
+        'Choices': {
+          '1': {
+            'Display': 'Oui'
+          },
+          '2': {
+            'Display': 'Non'
+          }
+        },
+        'ChoiceOrder': [
+          1,
+          2
+        ],
+        'Validation': {
+          'Settings': {
+            'ForceResponse': 'ON',
+            'ForceResponseType': 'ON',
+            'Type': 'None'
+          }
+        },
+        'Language': [],
+        'NextChoiceId': 3,
+        'NextAnswerId': 1,
+        'QuestionID': 'QID1',
+        'QuestionText_Unsafe': '<strong>Avez-vous visité une pharmacie Medicine Shoppe au cours des 3&nbsp;derniers mois?</strong>',
+        'DataVisibility': {
+          'Private': False,
+          'Hidden': False
+        }
+      },
+      'QID3': {
+        'QuestionText': '<b>Que pourrions-nous faire pour améliorer votre expérience client? </b>',
+        'DefaultChoices': False,
+        'DataExportTag': 'Q3',
+        'QuestionType': 'TE',
+        'Selector': 'ESTB',
+        'Configuration': {
+          'QuestionDescriptionOption': 'UseText'
+        },
+        'QuestionDescription': 'Que pourrions-nous faire pour améliorer votre expérience client?',
+        'Validation': {
+          'Settings': {
+            'ForceResponse': 'OFF',
+            'Type': 'None'
+          }
+        },
+        'GradingData': [],
+        'Language': [],
+        'NextChoiceId': 4,
+        'NextAnswerId': 1,
+        'SearchSource': {
+          'AllowFreeResponse': 'false'
+        },
+        'QuestionID': 'QID3',
+        'QuestionText_Unsafe': '<b>Que pourrions-nous faire pour améliorer votre expérience client? </b>',
+        'DataVisibility': {
+          'Private': False,
+          'Hidden': False
+        }
+      },
+      'QID2': {
+        'QuestionText': '<strong>Quelle est la probabilité que vous recommandiez la pharmacie Medicine Shoppe à un ami ou à un membre de votre famille?</strong><br>\n<span style="font-size:11px;">0 = pas du tout probable et 10 = très probable</span>',
+        'DefaultChoices': False,
+        'DataExportTag': 'Q2',
+        'QuestionID': 'QID2',
+        'QuestionType': 'MC',
+        'Selector': 'NPS',
+        'Configuration': {
+          'QuestionDescriptionOption': 'UseText',
+          'TextPosition': 'above',
+          'Autoscale': {
+            'YScale': {
+              'Name': 'likelyUnlikely',
+              'Type': 'likert',
+              'Reverse': False
+            }
+          }
+        },
+        'QuestionDescription': 'Quelle est la probabilité que vous recommandiez la pharmacie Medicine Shoppe à un ami ou à un mem...',
+        'Choices': [
+          {
+            'Display': '0'
+          },
+          {
+            'Display': '1'
+          },
+          {
+            'Display': '2'
+          },
+          {
+            'Display': '3'
+          },
+          {
+            'Display': '4'
+          },
+          {
+            'Display': '5'
+          },
+          {
+            'Display': '6'
+          },
+          {
+            'Display': '7'
+          },
+          {
+            'Display': '8'
+          },
+          {
+            'Display': '9'
+          },
+          {
+            'Display': '10'
+          }
+        ],
+        'ChoiceOrder': [
+          '0',
+          '1',
+          '2',
+          '3',
+          '4',
+          '5',
+          '6',
+          '7',
+          '8',
+          '9',
+          '10'
+        ],
+        'Validation': {
+          'Settings': {
+            'ForceResponse': 'ON',
+            'ForceResponseType': 'ON',
+            'Type': 'None'
+          }
+        },
+        'GradingData': [],
+        'Language': [],
+        'NextChoiceId': 11,
+        'NextAnswerId': 12,
+        'ColumnLabels': [
+          {
+            'Display': 'Pas du tout probable',
+            'IsLabelDefault': False
+          },
+          {
+            'Display': 'Très probable',
+            'IsLabelDefault': False
+          }
+        ],
+        'DataVisibility': {
+          'Private': False,
+          'Hidden': False
+        },
+        'QuestionText_Unsafe': '<strong>Quelle est la probabilité que vous recommandiez la pharmacie Medicine Shoppe à un ami ou à un membre de votre famille?</strong><br>\n<span style="font-size:11px;">0 = pas du tout probable et 10 = très probable</span>'
+      }
+    },
+    'Blocks': {
+      'BL_0D0relDQjypA5dc': {
+        'Type': 'Default',
+        'Description': 'Default Question Block',
+        'ID': 'BL_0D0relDQjypA5dc',
+        'BlockElements': [
+          {
+            'Type': 'Question',
+            'QuestionID': 'QID1'
+          },
+          {
+            'Type': 'Question',
+            'QuestionID': 'QID2'
+          },
+          {
+            'Type': 'Question',
+            'QuestionID': 'QID3'
+          }
+        ]
+      },
+      'BL_2oaxpmgCe8AU7S6': {
+        'Type': 'Trash',
+        'Description': 'Trash / Unused Questions',
+        'ID': 'BL_2oaxpmgCe8AU7S6',
+        'BlockElements': []
+      }
+    },
+    'ResponseSets': {
+      'RS_a8ErPBje6PQi1CK': None
+    },
+    'SurveyFlow': {
+      'Flow': [
+        {
+          'ID': 'BL_0D0relDQjypA5dc',
+          'Type': 'Block',
+          'FlowID': 'FL_2'
+        }
+      ],
+      'Properties': {
+        'Count': 2
+      },
+      'FlowID': 'FL_1',
+      'Type': 'Root'
+    },
+    'Scoring': {
+      'ScoringCategories': [],
+      'ScoringCategoryGroups': [],
+      'ScoringSummaryCategory': None,
+      'ScoringSummaryAfterQuestions': 0,
+      'ScoringSummaryAfterSurvey': 0,
+      'DefaultScoringCategory': None,
+      'AutoScoringCategory': None
+    },
+    'ProjectInfo': {
+      'SurveyID': 'SV_8jC7Blg2OEmwhp4',
+      'ProjectCategory': 'CORE',
+      'ProjectType': None,
+      'CompositionType': None,
+      'ContentBundle': None
+    },
+    'BrandBaseURL': 'https://mckessoncanada.qualtrics.com'
+  }
+}

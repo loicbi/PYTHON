@@ -1,0 +1,979 @@
+{
+  "meta": {
+    "httpStatus": "200 - OK",
+    "requestId": "c7e5d699-5d70-40bf-9245-7e88855fe1c0"
+  },
+  "result": {
+    "elements": [
+      {
+        "QuestionText": "Click to write the question text",
+        "DefaultChoices": false,
+        "DataExportTag": "Q5",
+        "QuestionType": "DB",
+        "Selector": "TB",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Click to write the question text",
+        "ChoiceOrder": [],
+        "Validation": {
+          "Settings": {
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionID": "QID5",
+        "QuestionText_Unsafe": "Click to write the question text"
+      },
+      {
+        "QuestionText": "Click to write the question text",
+        "DefaultChoices": false,
+        "DataExportTag": "Q12",
+        "QuestionType": "HeatMap",
+        "Selector": "Image",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Click to write the question text",
+        "Choices": {
+          "1": {
+            "Display": "X,Y"
+          }
+        },
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 12,
+        "NextAnswerId": 1,
+        "Clicks": 1,
+        "Regions": [],
+        "QuestionID": "QID12",
+        "QuestionText_Unsafe": "Click to write the question text"
+      },
+      {
+        "QuestionText": "Click to write the question text 10",
+        "DefaultChoices": false,
+        "DataExportTag": "Q10",
+        "QuestionType": "FileUpload",
+        "Selector": "FileUpload",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "MinSeconds": "0",
+          "MaxSeconds": "0",
+          "AudioOnly": false,
+          "VideoUpload": false
+        },
+        "QuestionDescription": "Click to write the question text 10",
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "ScreenCaptureText": "Capture Screen",
+        "QuestionID": "QID10",
+        "QuestionText_Unsafe": "Click to write the question text 10"
+      },
+      {
+        "QuestionText": "Click to write the question text 12",
+        "DefaultChoices": false,
+        "DataExportTag": "Q11",
+        "QuestionType": "Draw",
+        "Selector": "Signature",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "ShowBackgroundText": true,
+          "BoxSize": "Medium"
+        },
+        "QuestionDescription": "Click to write the question text 12",
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionID": "QID11",
+        "QuestionText_Unsafe": "Click to write the question text 12"
+      },
+      {
+        "QuestionText": "Click to write the question text 13",
+        "DefaultChoices": false,
+        "DataExportTag": "Q13",
+        "QuestionType": "HL",
+        "Selector": "Text",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "CustomTextSize": false,
+          "AutoStopWords": false
+        },
+        "QuestionDescription": "Click to write the question text 13",
+        "Choices": {
+          "88": {
+            "WordIndex": 0,
+            "WordLength": 4,
+            "Word": "This",
+            "Display": "1: This"
+          },
+          "89": {
+            "WordIndex": 5,
+            "WordLength": 2,
+            "Word": "is",
+            "Display": "2: is"
+          },
+          "90": {
+            "WordIndex": 8,
+            "WordLength": 3,
+            "Word": "the",
+            "Display": "3: the"
+          },
+          "91": {
+            "WordIndex": 12,
+            "WordLength": 4,
+            "Word": "text",
+            "Display": "4: text"
+          },
+          "92": {
+            "WordIndex": 17,
+            "WordLength": 3,
+            "Word": "you",
+            "Display": "5: you"
+          },
+          "93": {
+            "WordIndex": 21,
+            "WordLength": 3,
+            "Word": "can",
+            "Display": "6: can"
+          },
+          "94": {
+            "WordIndex": 25,
+            "WordLength": 9,
+            "Word": "highlight",
+            "Display": "7: highlight"
+          },
+          "95": {
+            "WordIndex": 35,
+            "WordLength": 4,
+            "Word": "with",
+            "Display": "8: with"
+          },
+          "96": {
+            "WordIndex": 40,
+            "WordLength": 3,
+            "Word": "the",
+            "Display": "9: the"
+          },
+          "97": {
+            "WordIndex": 44,
+            "WordLength": 5,
+            "Word": "above",
+            "Display": "10: above"
+          },
+          "98": {
+            "WordIndex": 50,
+            "WordLength": 5,
+            "Word": "color",
+            "Display": "11: color"
+          },
+          "99": {
+            "WordIndex": 56,
+            "WordLength": 11,
+            "Word": "categories.",
+            "Display": "12: categories."
+          },
+          "100": {
+            "WordIndex": 68,
+            "WordLength": 2,
+            "Word": "To",
+            "Display": "13: To"
+          },
+          "101": {
+            "WordIndex": 71,
+            "WordLength": 4,
+            "Word": "edit",
+            "Display": "14: edit"
+          },
+          "102": {
+            "WordIndex": 76,
+            "WordLength": 4,
+            "Word": "this",
+            "Display": "15: this"
+          },
+          "103": {
+            "WordIndex": 81,
+            "WordLength": 5,
+            "Word": "text,",
+            "Display": "16: text,"
+          },
+          "104": {
+            "WordIndex": 87,
+            "WordLength": 5,
+            "Word": "click",
+            "Display": "17: click"
+          },
+          "105": {
+            "WordIndex": 93,
+            "WordLength": 2,
+            "Word": "on",
+            "Display": "18: on"
+          },
+          "106": {
+            "WordIndex": 96,
+            "WordLength": 3,
+            "Word": "the",
+            "Display": "19: the"
+          },
+          "107": {
+            "WordIndex": 100,
+            "WordLength": 4,
+            "Word": "link",
+            "Display": "20: link"
+          },
+          "108": {
+            "WordIndex": 105,
+            "WordLength": 6,
+            "Word": "below.",
+            "Display": "21: below."
+          },
+          "109": {
+            "WordIndex": 112,
+            "WordLength": 5,
+            "Word": "Click",
+            "Display": "22: Click"
+          },
+          "110": {
+            "WordIndex": 118,
+            "WordLength": 7,
+            "Word": "between",
+            "Display": "23: between"
+          },
+          "111": {
+            "WordIndex": 126,
+            "WordLength": 3,
+            "Word": "the",
+            "Display": "24: the"
+          },
+          "112": {
+            "WordIndex": 130,
+            "WordLength": 5,
+            "Word": "words",
+            "Display": "25: words"
+          },
+          "113": {
+            "WordIndex": 136,
+            "WordLength": 2,
+            "Word": "to",
+            "Display": "26: to"
+          },
+          "114": {
+            "WordIndex": 139,
+            "WordLength": 7,
+            "Word": "combine",
+            "Display": "27: combine"
+          },
+          "115": {
+            "WordIndex": 147,
+            "WordLength": 2,
+            "Word": "or",
+            "Display": "28: or"
+          },
+          "116": {
+            "WordIndex": 150,
+            "WordLength": 8,
+            "Word": "separate",
+            "Display": "29: separate"
+          },
+          "117": {
+            "WordIndex": 159,
+            "WordLength": 5,
+            "Word": "them.",
+            "Display": "30: them."
+          },
+          "118": {
+            "WordIndex": 165,
+            "WordLength": 8,
+            "Word": "Clicking",
+            "Display": "31: Clicking"
+          },
+          "119": {
+            "WordIndex": 174,
+            "WordLength": 8,
+            "Word": "directly",
+            "Display": "32: directly"
+          },
+          "120": {
+            "WordIndex": 183,
+            "WordLength": 2,
+            "Word": "on",
+            "Display": "33: on"
+          },
+          "121": {
+            "WordIndex": 186,
+            "WordLength": 5,
+            "Word": "words",
+            "Display": "34: words"
+          },
+          "122": {
+            "WordIndex": 192,
+            "WordLength": 4,
+            "Word": "will",
+            "Display": "35: will"
+          },
+          "123": {
+            "WordIndex": 197,
+            "WordLength": 5,
+            "Word": "allow",
+            "Display": "36: allow"
+          },
+          "124": {
+            "WordIndex": 203,
+            "WordLength": 2,
+            "Word": "or",
+            "Display": "37: or"
+          },
+          "125": {
+            "WordIndex": 206,
+            "WordLength": 8,
+            "Word": "disallow",
+            "Display": "38: disallow"
+          },
+          "126": {
+            "WordIndex": 215,
+            "WordLength": 11,
+            "Word": "respondents",
+            "Display": "39: respondents"
+          },
+          "127": {
+            "WordIndex": 227,
+            "WordLength": 4,
+            "Word": "from",
+            "Display": "40: from"
+          },
+          "128": {
+            "WordIndex": 232,
+            "WordLength": 12,
+            "Word": "highlighting",
+            "Display": "41: highlighting"
+          },
+          "129": {
+            "WordIndex": 245,
+            "WordLength": 5,
+            "Word": "them.",
+            "Display": "42: them."
+          }
+        },
+        "ChoiceOrder": [
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 130,
+        "NextAnswerId": 4,
+        "Answers": {
+          "1": {
+            "Display": "Like",
+            "BGColor": "#1a9641",
+            "TextColor": "#ffffff"
+          },
+          "2": {
+            "Display": "Neither like nor dislike",
+            "BGColor": "#ffffbf",
+            "TextColor": "#000000"
+          },
+          "3": {
+            "Display": "Dislike",
+            "BGColor": "#d7191c",
+            "TextColor": "#ffffff"
+          }
+        },
+        "ExcludedWords": [],
+        "WordChoiceIds": [
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129
+        ],
+        "HighlightText": "This is the text you can highlight with the above color categories. To edit this text, click on the link below. Click between the words to combine or separate them. Clicking directly on words will allow or disallow respondents from highlighting them.",
+        "ColorScale": "RdYlGn",
+        "QuestionID": "QID13",
+        "QuestionText_Unsafe": "Click to write the question text 13"
+      },
+      {
+        "QuestionText": "Click to write the question text 14",
+        "DefaultChoices": false,
+        "DataExportTag": "Q14",
+        "QuestionType": "TE",
+        "Selector": "FORM",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Click to write the question text 14",
+        "Choices": {
+          "1": {
+            "Display": "Click to write Choice 1"
+          },
+          "2": {
+            "Display": "Click to write Choice 2"
+          },
+          "3": {
+            "Display": "Click to write Choice 3"
+          }
+        },
+        "ChoiceOrder": [
+          "1",
+          "2",
+          "3"
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": null
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "SearchSource": {
+          "AllowFreeResponse": "false"
+        },
+        "QuestionID": "QID14",
+        "QuestionText_Unsafe": "Click to write the question text 14"
+      },
+      {
+        "QuestionText": "Click to write the question text 6",
+        "DefaultChoices": false,
+        "DataExportTag": "Q6",
+        "QuestionType": "Slider",
+        "Selector": "HSLIDER",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "CSSliderMin": 0,
+          "CSSliderMax": 100,
+          "GridLines": 10,
+          "SnapToGrid": false,
+          "NumDecimals": "0",
+          "ShowValue": true,
+          "CustomStart": false,
+          "NotApplicable": false,
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Click to write the question text 6",
+        "Choices": {
+          "1": {
+            "Display": "Click to write Choice 1"
+          },
+          "2": {
+            "Display": "Click to write Choice 2"
+          },
+          "3": {
+            "Display": "Click to write Choice 3"
+          }
+        },
+        "ChoiceOrder": [
+          "1",
+          "2",
+          "3"
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "Labels": [],
+        "QuestionID": "QID6",
+        "QuestionText_Unsafe": "Click to write the question text 6"
+      },
+      {
+        "QuestionText": "Click to write the question text 7",
+        "DefaultChoices": false,
+        "DataExportTag": "Q7",
+        "QuestionType": "RO",
+        "Selector": "DND",
+        "SubSelector": "TX",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Click to write the question text 7",
+        "Choices": {
+          "1": {
+            "Display": "Click to write Item 1"
+          },
+          "2": {
+            "Display": "Click to write Item 2"
+          },
+          "3": {
+            "Display": "Click to write Item 3"
+          }
+        },
+        "ChoiceOrder": [
+          "1",
+          "2",
+          "3"
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "QuestionID": "QID7",
+        "QuestionText_Unsafe": "Click to write the question text 7"
+      },
+      {
+        "QuestionText": "Click to write the question text 8",
+        "DefaultChoices": false,
+        "DataExportTag": "Q8",
+        "QuestionType": "SBS",
+        "Selector": "SBSMatrix",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "RepeatHeaders": "none"
+        },
+        "QuestionDescription": "Click to write the question text 8",
+        "Choices": {
+          "1": {
+            "Display": "Click to write Statement 1"
+          },
+          "2": {
+            "Display": "Click to write Statement 2"
+          },
+          "3": {
+            "Display": "Click to write Statement 3"
+          }
+        },
+        "ChoiceOrder": [
+          "1",
+          "2",
+          "3"
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 3,
+        "NumberOfQuestions": 2,
+        "AdditionalQuestions": {
+          "1": {
+            "Answers": {
+              "1": {
+                "Display": "Answer 1"
+              },
+              "2": {
+                "Display": "Answer 2"
+              }
+            },
+            "QuestionText": "Click to write Column 1",
+            "RecodeValues": [],
+            "VariableNaming": [],
+            "AnalyzeChoices": [],
+            "QuestionType": "Matrix",
+            "Selector": "Likert",
+            "SubSelector": "SingleAnswer",
+            "ChoiceColumnWidthPixels": null,
+            "DataExportTag": "Q8#1",
+            "QuestionID": "QID8#1",
+            "Choices": {
+              "1": {
+                "Display": "Click to write Statement 1"
+              },
+              "2": {
+                "Display": "Click to write Statement 2"
+              },
+              "3": {
+                "Display": "Click to write Statement 3"
+              }
+            },
+            "ChoiceDataExportTags": false,
+            "QuestionDescription": "Click to write Column 1",
+            "Configuration": {
+              "QuestionDescriptionOption": "UseText"
+            }
+          },
+          "2": {
+            "Answers": {
+              "1": {
+                "Display": "Answer 1"
+              },
+              "2": {
+                "Display": "Answer 2"
+              }
+            },
+            "QuestionText": "Click to write Column 2",
+            "RecodeValues": [],
+            "VariableNaming": [],
+            "AnalyzeChoices": [],
+            "QuestionType": "Matrix",
+            "Selector": "Likert",
+            "SubSelector": "SingleAnswer",
+            "ChoiceColumnWidthPixels": null,
+            "DataExportTag": "Q8#2",
+            "QuestionID": "QID8#2",
+            "Choices": {
+              "1": {
+                "Display": "Click to write Statement 1"
+              },
+              "2": {
+                "Display": "Click to write Statement 2"
+              },
+              "3": {
+                "Display": "Click to write Statement 3"
+              }
+            },
+            "ChoiceDataExportTags": false,
+            "QuestionDescription": "Click to write Column 2",
+            "Configuration": {
+              "QuestionDescriptionOption": "UseText"
+            }
+          }
+        },
+        "ChoiceDataExportTags": false,
+        "QuestionID": "QID8",
+        "QuestionText_Unsafe": "Click to write the question text 8"
+      },
+      {
+        "QuestionText": "Do you believe in love",
+        "DefaultChoices": false,
+        "DataExportTag": "Q3",
+        "QuestionType": "Matrix",
+        "Selector": "Likert",
+        "SubSelector": "SingleAnswer",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "TextPosition": "inline",
+          "ChoiceColumnWidth": 25,
+          "RepeatHeaders": "none",
+          "WhiteSpace": "OFF",
+          "MobileFirst": true
+        },
+        "QuestionDescription": "Do you believe in love",
+        "Choices": {
+          "1": {
+            "Display": "Yes I Do"
+          },
+          "2": {
+            "Display": "Don't apply"
+          },
+          "3": {
+            "Display": "No I will never do"
+          }
+        },
+        "ChoiceOrder": [
+          "1",
+          "2",
+          "3"
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 4,
+        "Answers": {
+          "1": {
+            "Display": "1"
+          },
+          "2": {
+            "Display": "0"
+          },
+          "3": {
+            "Display": "-1"
+          }
+        },
+        "AnswerOrder": [
+          "1",
+          "2",
+          "3"
+        ],
+        "ChoiceDataExportTags": false,
+        "QuestionID": "QID3",
+        "QuestionText_Unsafe": "Do you believe in love"
+      },
+      {
+        "QuestionText": "Do you believe in Matillion?",
+        "DefaultChoices": false,
+        "DataExportTag": "Q2",
+        "QuestionType": "MC",
+        "Selector": "SAVR",
+        "SubSelector": "TX",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "Autoscale": {
+            "YScale": {
+              "Name": "yesNo",
+              "Type": "likert",
+              "Reverse": false
+            }
+          }
+        },
+        "QuestionDescription": "Do you believe in Matillion?",
+        "Choices": {
+          "1": {
+            "Display": "Definitely not"
+          },
+          "2": {
+            "Display": "Probably not"
+          },
+          "3": {
+            "Display": "Might or might not"
+          },
+          "4": {
+            "Display": "Probably yes"
+          },
+          "5": {
+            "Display": "Definitely yes"
+          }
+        },
+        "ChoiceOrder": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 6,
+        "NextAnswerId": 1,
+        "QuestionID": "QID2",
+        "QuestionText_Unsafe": "Do you believe in Matillion?"
+      },
+      {
+        "QuestionText": "Do you enjoy life?",
+        "DataExportTag": "Q1",
+        "QuestionType": "MC",
+        "Selector": "SAVR",
+        "SubSelector": "TX",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "Autoscale": {
+            "YScale": {
+              "Name": "yesNo",
+              "Type": "likert",
+              "Reverse": false
+            }
+          }
+        },
+        "QuestionDescription": "Do you enjoy life?",
+        "Choices": {
+          "1": {
+            "Display": "Definitely not"
+          },
+          "2": {
+            "Display": "Probably not"
+          },
+          "3": {
+            "Display": "Might or might not"
+          },
+          "4": {
+            "Display": "Probably yes"
+          },
+          "5": {
+            "Display": "Definitely yes"
+          }
+        },
+        "ChoiceOrder": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "Language": [],
+        "NextChoiceId": 6,
+        "NextAnswerId": 1,
+        "QuestionID": "QID1",
+        "QuestionText_Unsafe": "Do you enjoy life?"
+      },
+      {
+        "QuestionText": "Timing",
+        "DefaultChoices": false,
+        "DataExportTag": "Q9",
+        "QuestionType": "Timing",
+        "Selector": "PageTimer",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText",
+          "MinSeconds": "0",
+          "MaxSeconds": "0"
+        },
+        "QuestionDescription": "Timing",
+        "Choices": {
+          "1": {
+            "Display": "First Click"
+          },
+          "2": {
+            "Display": "Last Click"
+          },
+          "3": {
+            "Display": "Page Submit"
+          },
+          "4": {
+            "Display": "Click Count"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 16,
+        "NextAnswerId": 1,
+        "QuestionID": "QID9",
+        "QuestionText_Unsafe": "Timing"
+      },
+      {
+        "QuestionText": "Your Name ?&nbsp;",
+        "DefaultChoices": false,
+        "DataExportTag": "Q4",
+        "QuestionType": "TE",
+        "Selector": "SL",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "QuestionDescription": "Your Name ? ",
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "None"
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 4,
+        "NextAnswerId": 1,
+        "SearchSource": {
+          "AllowFreeResponse": "false"
+        },
+        "QuestionID": "QID4",
+        "QuestionText_Unsafe": "Your Name ?&nbsp;"
+      }
+    ]
+  }
+}
+
