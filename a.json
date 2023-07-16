@@ -1,0 +1,4986 @@
+[
+  {
+    "gtin": "062600443052",
+    "gtin14": "00062600443052",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600963086",
+    "gtin14": "00062600963086",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963086",
+    "gtin14": "00062600963086",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963086",
+    "gtin14": "00062600963086",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600963383",
+    "gtin14": "00062600963383",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600965035",
+    "gtin14": "00062600965035",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600965035",
+    "gtin14": "00062600965035",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600965035",
+    "gtin14": "00062600965035",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600381132",
+    "gtin14": "00062600381132",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600953049",
+    "gtin14": "00062600953049",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600953049",
+    "gtin14": "00062600953049",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600953049",
+    "gtin14": "00062600953049",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600300973",
+    "gtin14": "00062600300973",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600300973",
+    "gtin14": "00062600300973",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600300973",
+    "gtin14": "00062600300973",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "null",
+    "gtin14": "00062600959140",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "null",
+    "gtin14": "00062600959140",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600235749",
+    "gtin14": "00062600235749",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600235749",
+    "gtin14": "00062600235749",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600235749",
+    "gtin14": "00062600235749",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600946997",
+    "gtin14": "00062600946997",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600946997",
+    "gtin14": "00062600946997",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964045",
+    "gtin14": "00062600964045",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964045",
+    "gtin14": "00062600964045",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964045",
+    "gtin14": "00062600964045",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600338921",
+    "gtin14": "00062600338921",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338921",
+    "gtin14": "00062600338921",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338921",
+    "gtin14": "00062600338921",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600959904",
+    "gtin14": "00062600959904",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959904",
+    "gtin14": "00062600959904",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959904",
+    "gtin14": "00062600959904",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962379",
+    "gtin14": "00062600962379",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962379",
+    "gtin14": "00062600962379",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600413802",
+    "gtin14": "00062600413802",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600413802",
+    "gtin14": "00062600413802",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600413802",
+    "gtin14": "00062600413802",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600410047",
+    "gtin14": "00062600410047",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600410047",
+    "gtin14": "00062600410047",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600410047",
+    "gtin14": "00062600410047",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600600530",
+    "gtin14": "00062600600530",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600600530",
+    "gtin14": "00062600600530",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600600530",
+    "gtin14": "00062600600530",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600262974",
+    "gtin14": "00062600262974",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600262974",
+    "gtin14": "00062600262974",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600262974",
+    "gtin14": "00062600262974",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600963246",
+    "gtin14": "00062600963246",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600963246",
+    "gtin14": "00062600963246",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600946447",
+    "gtin14": "00062600946447",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600946447",
+    "gtin14": "00062600946447",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600100948",
+    "gtin14": "00062600100948",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600100948",
+    "gtin14": "00062600100948",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600100948",
+    "gtin14": "00062600100948",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600921192",
+    "gtin14": "00062600921192",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600921192",
+    "gtin14": "00062600921192",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600921192",
+    "gtin14": "00062600921192",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600380326",
+    "gtin14": "00062600380326",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600400963",
+    "gtin14": "00062600400963",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600400963",
+    "gtin14": "00062600400963",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600400963",
+    "gtin14": "00062600400963",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600262509",
+    "gtin14": "00062600262509",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600262509",
+    "gtin14": "00062600262509",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600262509",
+    "gtin14": "00062600262509",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600443489",
+    "gtin14": "00062600443489",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600420008",
+    "gtin14": "00062600420008",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600420008",
+    "gtin14": "00062600420008",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600420008",
+    "gtin14": "00062600420008",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600380555",
+    "gtin14": "00062600380555",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600200617",
+    "gtin14": "00062600200617",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962188",
+    "gtin14": "00062600962188",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "exported"
+  },
+  {
+    "gtin": "062600962188",
+    "gtin14": "00062600962188",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962188",
+    "gtin14": "00062600962188",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600338945",
+    "gtin14": "00062600338945",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338945",
+    "gtin14": "00062600338945",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338945",
+    "gtin14": "00062600338945",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600965004",
+    "gtin14": "00062600965004",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600965004",
+    "gtin14": "00062600965004",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600965004",
+    "gtin14": "00062600965004",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600101167",
+    "gtin14": "00062600101167",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600235756",
+    "gtin14": "00062600235756",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600235756",
+    "gtin14": "00062600235756",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600235756",
+    "gtin14": "00062600235756",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600700650",
+    "gtin14": "00062600700650",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600700650",
+    "gtin14": "00062600700650",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600700650",
+    "gtin14": "00062600700650",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600946898",
+    "gtin14": "00062600946898",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600946898",
+    "gtin14": "00062600946898",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600400215",
+    "gtin14": "00062600400215",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600400215",
+    "gtin14": "00062600400215",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600400215",
+    "gtin14": "00062600400215",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962997",
+    "gtin14": "00062600962997",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962997",
+    "gtin14": "00062600962997",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "3574661112794",
+    "gtin14": "03574661112794",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600433787",
+    "gtin14": "00062600433787",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600100559",
+    "gtin14": "00062600100559",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600100559",
+    "gtin14": "00062600100559",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600100559",
+    "gtin14": "00062600100559",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964915",
+    "gtin14": "00062600964915",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964915",
+    "gtin14": "00062600964915",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964915",
+    "gtin14": "00062600964915",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962966",
+    "gtin14": "00062600962966",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962966",
+    "gtin14": "00062600962966",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962966",
+    "gtin14": "00062600962966",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961501",
+    "gtin14": "00062600961501",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600963765",
+    "gtin14": "00062600963765",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963765",
+    "gtin14": "00062600963765",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963765",
+    "gtin14": "00062600963765",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "null",
+    "gtin14": "00062600400659",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600921338",
+    "gtin14": "00062600921338",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600921338",
+    "gtin14": "00062600921338",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600921338",
+    "gtin14": "00062600921338",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600410016",
+    "gtin14": "00062600410016",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600410016",
+    "gtin14": "00062600410016",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600410016",
+    "gtin14": "00062600410016",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962829",
+    "gtin14": "00062600962829",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962829",
+    "gtin14": "00062600962829",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600381224",
+    "gtin14": "00062600381224",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600284983",
+    "gtin14": "00062600284983",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600284983",
+    "gtin14": "00062600284983",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600284983",
+    "gtin14": "00062600284983",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600338969",
+    "gtin14": "00062600338969",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338969",
+    "gtin14": "00062600338969",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338969",
+    "gtin14": "00062600338969",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600960252",
+    "gtin14": "00062600960252",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962157",
+    "gtin14": "00062600962157",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962263",
+    "gtin14": "00062600962263",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962263",
+    "gtin14": "00062600962263",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600250636",
+    "gtin14": "00062600250636",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600250636",
+    "gtin14": "00062600250636",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600250636",
+    "gtin14": "00062600250636",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600700636",
+    "gtin14": "00062600700636",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600700636",
+    "gtin14": "00062600700636",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600945136",
+    "gtin14": "00062600945136",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600945136",
+    "gtin14": "00062600945136",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600945136",
+    "gtin14": "00062600945136",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "null",
+    "gtin14": "00062600401038",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600460110",
+    "gtin14": "00062600460110",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600460110",
+    "gtin14": "00062600460110",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600460110",
+    "gtin14": "00062600460110",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600283542",
+    "gtin14": "00062600283542",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600283542",
+    "gtin14": "00062600283542",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600283542",
+    "gtin14": "00062600283542",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964083",
+    "gtin14": "00062600964083",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964083",
+    "gtin14": "00062600964083",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964083",
+    "gtin14": "00062600964083",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600959935",
+    "gtin14": "00062600959935",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959935",
+    "gtin14": "00062600959935",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959935",
+    "gtin14": "00062600959935",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962201",
+    "gtin14": "00062600962201",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962201",
+    "gtin14": "00062600962201",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962201",
+    "gtin14": "00062600962201",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600239402",
+    "gtin14": "00062600239402",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600239402",
+    "gtin14": "00062600239402",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600239402",
+    "gtin14": "00062600239402",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600963185",
+    "gtin14": "00062600963185",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963185",
+    "gtin14": "00062600963185",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963185",
+    "gtin14": "00062600963185",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "null",
+    "gtin14": "00062600960559",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600953209",
+    "gtin14": "00062600953209",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600953209",
+    "gtin14": "00062600953209",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600953209",
+    "gtin14": "00062600953209",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600262967",
+    "gtin14": "00062600262967",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600262967",
+    "gtin14": "00062600262967",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600262967",
+    "gtin14": "00062600262967",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600960276",
+    "gtin14": "00062600960276",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600960276",
+    "gtin14": "00062600960276",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600945907",
+    "gtin14": "00062600945907",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600945907",
+    "gtin14": "00062600945907",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600300966",
+    "gtin14": "00062600300966",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600300966",
+    "gtin14": "00062600300966",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600300966",
+    "gtin14": "00062600300966",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961419",
+    "gtin14": "00062600961419",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961419",
+    "gtin14": "00062600961419",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961419",
+    "gtin14": "00062600961419",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600945761",
+    "gtin14": "00062600945761",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600945761",
+    "gtin14": "00062600945761",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600945761",
+    "gtin14": "00062600945761",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600963222",
+    "gtin14": "00062600963222",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963222",
+    "gtin14": "00062600963222",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963222",
+    "gtin14": "00062600963222",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600945891",
+    "gtin14": "00062600945891",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600945891",
+    "gtin14": "00062600945891",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "null",
+    "gtin14": "00062600400987",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600959911",
+    "gtin14": "00062600959911",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959911",
+    "gtin14": "00062600959911",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959911",
+    "gtin14": "00062600959911",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600200785",
+    "gtin14": "00062600200785",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600953018",
+    "gtin14": "00062600953018",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600953018",
+    "gtin14": "00062600953018",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600960238",
+    "gtin14": "00062600960238",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600960238",
+    "gtin14": "00062600960238",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600960238",
+    "gtin14": "00062600960238",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600479013",
+    "gtin14": "00062600479013",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600200136",
+    "gtin14": "00062600200136",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600200136",
+    "gtin14": "00062600200136",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600400956",
+    "gtin14": "00062600400956",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600400956",
+    "gtin14": "00062600400956",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600400956",
+    "gtin14": "00062600400956",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600301154",
+    "gtin14": "00062600301154",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600460028",
+    "gtin14": "00062600460028",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600460028",
+    "gtin14": "00062600460028",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600284952",
+    "gtin14": "00062600284952",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600284952",
+    "gtin14": "00062600284952",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600284952",
+    "gtin14": "00062600284952",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600233936",
+    "gtin14": "00062600233936",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600233936",
+    "gtin14": "00062600233936",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600233936",
+    "gtin14": "00062600233936",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600301444",
+    "gtin14": "00062600301444",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600301444",
+    "gtin14": "00062600301444",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600301444",
+    "gtin14": "00062600301444",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600380159",
+    "gtin14": "00062600380159",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600400031",
+    "gtin14": "00062600400031",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600381217",
+    "gtin14": "00062600381217",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600963567",
+    "gtin14": "00062600963567",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600233929",
+    "gtin14": "00062600233929",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600233929",
+    "gtin14": "00062600233929",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600233929",
+    "gtin14": "00062600233929",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600946591",
+    "gtin14": "00062600946591",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600946591",
+    "gtin14": "00062600946591",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600946591",
+    "gtin14": "00062600946591",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961297",
+    "gtin14": "00062600961297",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961297",
+    "gtin14": "00062600961297",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961297",
+    "gtin14": "00062600961297",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600301451",
+    "gtin14": "00062600301451",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600301451",
+    "gtin14": "00062600301451",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600301451",
+    "gtin14": "00062600301451",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962195",
+    "gtin14": "00062600962195",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962195",
+    "gtin14": "00062600962195",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962195",
+    "gtin14": "00062600962195",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600301437",
+    "gtin14": "00062600301437",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600301437",
+    "gtin14": "00062600301437",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600301437",
+    "gtin14": "00062600301437",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600100368",
+    "gtin14": "00062600100368",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600100368",
+    "gtin14": "00062600100368",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600100368",
+    "gtin14": "00062600100368",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964328",
+    "gtin14": "00062600964328",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964328",
+    "gtin14": "00062600964328",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964328",
+    "gtin14": "00062600964328",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600943781",
+    "gtin14": "00062600943781",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600420046",
+    "gtin14": "00062600420046",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600420046",
+    "gtin14": "00062600420046",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600420046",
+    "gtin14": "00062600420046",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600338853",
+    "gtin14": "00062600338853",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338853",
+    "gtin14": "00062600338853",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338853",
+    "gtin14": "00062600338853",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600381200",
+    "gtin14": "00062600381200",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600475534",
+    "gtin14": "00062600475534",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600444837",
+    "gtin14": "00062600444837",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600946454",
+    "gtin14": "00062600946454",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962959",
+    "gtin14": "00062600962959",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962959",
+    "gtin14": "00062600962959",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962959",
+    "gtin14": "00062600962959",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600250698",
+    "gtin14": "00062600250698",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600250698",
+    "gtin14": "00062600250698",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600250698",
+    "gtin14": "00062600250698",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600420039",
+    "gtin14": "00062600420039",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600420039",
+    "gtin14": "00062600420039",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964410",
+    "gtin14": "00062600964410",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964410",
+    "gtin14": "00062600964410",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964410",
+    "gtin14": "00062600964410",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600338983",
+    "gtin14": "00062600338983",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338983",
+    "gtin14": "00062600338983",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338983",
+    "gtin14": "00062600338983",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600479020",
+    "gtin14": "00062600479020",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600380081",
+    "gtin14": "00062600380081",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600959898",
+    "gtin14": "00062600959898",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959898",
+    "gtin14": "00062600959898",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959898",
+    "gtin14": "00062600959898",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964403",
+    "gtin14": "00062600964403",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964403",
+    "gtin14": "00062600964403",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964403",
+    "gtin14": "00062600964403",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961518",
+    "gtin14": "00062600961518",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600284945",
+    "gtin14": "00062600284945",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600284945",
+    "gtin14": "00062600284945",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600284945",
+    "gtin14": "00062600284945",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600262950",
+    "gtin14": "00062600262950",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600262950",
+    "gtin14": "00062600262950",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600262950",
+    "gtin14": "00062600262950",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964243",
+    "gtin14": "00062600964243",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964243",
+    "gtin14": "00062600964243",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964243",
+    "gtin14": "00062600964243",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600400048",
+    "gtin14": "00062600400048",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600101259",
+    "gtin14": "00062600101259",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600101259",
+    "gtin14": "00062600101259",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600101259",
+    "gtin14": "00062600101259",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600380227",
+    "gtin14": "00062600380227",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964786",
+    "gtin14": "00062600964786",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964786",
+    "gtin14": "00062600964786",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964786",
+    "gtin14": "00062600964786",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600200228",
+    "gtin14": "00062600200228",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600200228",
+    "gtin14": "00062600200228",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600200228",
+    "gtin14": "00062600200228",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962218",
+    "gtin14": "00062600962218",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962218",
+    "gtin14": "00062600962218",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962218",
+    "gtin14": "00062600962218",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964960",
+    "gtin14": "00062600964960",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964960",
+    "gtin14": "00062600964960",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964960",
+    "gtin14": "00062600964960",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600262998",
+    "gtin14": "00062600262998",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600262998",
+    "gtin14": "00062600262998",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600262998",
+    "gtin14": "00062600262998",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962140",
+    "gtin14": "00062600962140",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962140",
+    "gtin14": "00062600962140",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600700599",
+    "gtin14": "00062600700599",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600700599",
+    "gtin14": "00062600700599",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600700599",
+    "gtin14": "00062600700599",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600960818",
+    "gtin14": "00062600960818",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600960818",
+    "gtin14": "00062600960818",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600960818",
+    "gtin14": "00062600960818",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600381149",
+    "gtin14": "00062600381149",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600415622",
+    "gtin14": "00062600415622",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600479372",
+    "gtin14": "00062600479372",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964052",
+    "gtin14": "00062600964052",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964052",
+    "gtin14": "00062600964052",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964052",
+    "gtin14": "00062600964052",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "null",
+    "gtin14": "00062600953186",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "null",
+    "gtin14": "00062600953186",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "00062600420091",
+    "gtin14": "00062600420091",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "00062600420091",
+    "gtin14": "00062600420091",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600101150",
+    "gtin14": "00062600101150",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600262943",
+    "gtin14": "00062600262943",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600262943",
+    "gtin14": "00062600262943",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600262943",
+    "gtin14": "00062600262943",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600430120",
+    "gtin14": "00062600430120",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600430120",
+    "gtin14": "00062600430120",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600430120",
+    "gtin14": "00062600430120",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600415615",
+    "gtin14": "00062600415615",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600315434",
+    "gtin14": "00062600315434",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600315434",
+    "gtin14": "00062600315434",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600315434",
+    "gtin14": "00062600315434",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600245526",
+    "gtin14": "00062600245526",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600245526",
+    "gtin14": "00062600245526",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600245526",
+    "gtin14": "00062600245526",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962935",
+    "gtin14": "00062600962935",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962935",
+    "gtin14": "00062600962935",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600963093",
+    "gtin14": "00062600963093",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600380579",
+    "gtin14": "00062600380579",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961334",
+    "gtin14": "00062600961334",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961334",
+    "gtin14": "00062600961334",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600200938",
+    "gtin14": "00062600200938",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600200938",
+    "gtin14": "00062600200938",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600200938",
+    "gtin14": "00062600200938",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961457",
+    "gtin14": "00062600961457",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961457",
+    "gtin14": "00062600961457",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961457",
+    "gtin14": "00062600961457",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961471",
+    "gtin14": "00062600961471",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961471",
+    "gtin14": "00062600961471",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961471",
+    "gtin14": "00062600961471",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600450012",
+    "gtin14": "00062600450012",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600450012",
+    "gtin14": "00062600450012",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600306869",
+    "gtin14": "00062600306869",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600306869",
+    "gtin14": "00062600306869",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600306869",
+    "gtin14": "00062600306869",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600410023",
+    "gtin14": "00062600410023",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962317",
+    "gtin14": "00062600962317",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962317",
+    "gtin14": "00062600962317",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962317",
+    "gtin14": "00062600962317",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600381156",
+    "gtin14": "00062600381156",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600281111",
+    "gtin14": "00062600281111",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600281111",
+    "gtin14": "00062600281111",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600281111",
+    "gtin14": "00062600281111",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600430137",
+    "gtin14": "00062600430137",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600430137",
+    "gtin14": "00062600430137",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600430137",
+    "gtin14": "00062600430137",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600400055",
+    "gtin14": "00062600400055",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600306876",
+    "gtin14": "00062600306876",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600306876",
+    "gtin14": "00062600306876",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600306876",
+    "gtin14": "00062600306876",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600385338",
+    "gtin14": "00062600385338",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600263001",
+    "gtin14": "00062600263001",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600263001",
+    "gtin14": "00062600263001",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600263001",
+    "gtin14": "00062600263001",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600338976",
+    "gtin14": "00062600338976",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338976",
+    "gtin14": "00062600338976",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338976",
+    "gtin14": "00062600338976",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600963215",
+    "gtin14": "00062600963215",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963215",
+    "gtin14": "00062600963215",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963215",
+    "gtin14": "00062600963215",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600338952",
+    "gtin14": "00062600338952",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338952",
+    "gtin14": "00062600338952",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338952",
+    "gtin14": "00062600338952",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600420077",
+    "gtin14": "00062600420077",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600420077",
+    "gtin14": "00062600420077",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963772",
+    "gtin14": "00062600963772",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963772",
+    "gtin14": "00062600963772",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600410030",
+    "gtin14": "00062600410030",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600410030",
+    "gtin14": "00062600410030",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600410030",
+    "gtin14": "00062600410030",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962805",
+    "gtin14": "00062600962805",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962805",
+    "gtin14": "00062600962805",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962805",
+    "gtin14": "00062600962805",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600963208",
+    "gtin14": "00062600963208",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963208",
+    "gtin14": "00062600963208",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963208",
+    "gtin14": "00062600963208",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962812",
+    "gtin14": "00062600962812",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962812",
+    "gtin14": "00062600962812",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962812",
+    "gtin14": "00062600962812",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600959928",
+    "gtin14": "00062600959928",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959928",
+    "gtin14": "00062600959928",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959928",
+    "gtin14": "00062600959928",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600451002",
+    "gtin14": "00062600451002",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600451002",
+    "gtin14": "00062600451002",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600451002",
+    "gtin14": "00062600451002",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600415592",
+    "gtin14": "00062600415592",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600959164",
+    "gtin14": "00062600959164",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600953216",
+    "gtin14": "00062600953216",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "null",
+    "gtin14": "00062600400994",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600381170",
+    "gtin14": "00062600381170",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961464",
+    "gtin14": "00062600961464",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961464",
+    "gtin14": "00062600961464",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961464",
+    "gtin14": "00062600961464",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600945518",
+    "gtin14": "00062600945518",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600306043",
+    "gtin14": "00062600306043",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600306043",
+    "gtin14": "00062600306043",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600306043",
+    "gtin14": "00062600306043",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962942",
+    "gtin14": "00062600962942",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962942",
+    "gtin14": "00062600962942",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962942",
+    "gtin14": "00062600962942",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964687",
+    "gtin14": "00062600964687",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964687",
+    "gtin14": "00062600964687",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964687",
+    "gtin14": "00062600964687",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600271440",
+    "gtin14": "00062600271440",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600271440",
+    "gtin14": "00062600271440",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600271440",
+    "gtin14": "00062600271440",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961310",
+    "gtin14": "00062600961310",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961310",
+    "gtin14": "00062600961310",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961310",
+    "gtin14": "00062600961310",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964076",
+    "gtin14": "00062600964076",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964076",
+    "gtin14": "00062600964076",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964076",
+    "gtin14": "00062600964076",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600281104",
+    "gtin14": "00062600281104",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600281104",
+    "gtin14": "00062600281104",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600281104",
+    "gtin14": "00062600281104",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600965042",
+    "gtin14": "00062600965042",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600965042",
+    "gtin14": "00062600965042",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600965042",
+    "gtin14": "00062600965042",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600960825",
+    "gtin14": "00062600960825",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600960825",
+    "gtin14": "00062600960825",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600960825",
+    "gtin14": "00062600960825",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600246165",
+    "gtin14": "00062600246165",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600246165",
+    "gtin14": "00062600246165",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600246165",
+    "gtin14": "00062600246165",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600338990",
+    "gtin14": "00062600338990",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338990",
+    "gtin14": "00062600338990",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338990",
+    "gtin14": "00062600338990",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964090",
+    "gtin14": "00062600964090",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964090",
+    "gtin14": "00062600964090",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600100535",
+    "gtin14": "00062600100535",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600100535",
+    "gtin14": "00062600100535",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600100535",
+    "gtin14": "00062600100535",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600479389",
+    "gtin14": "00062600479389",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600380210",
+    "gtin14": "00062600380210",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600415608",
+    "gtin14": "00062600415608",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600380203",
+    "gtin14": "00062600380203",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600700605",
+    "gtin14": "00062600700605",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600700605",
+    "gtin14": "00062600700605",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600700605",
+    "gtin14": "00062600700605",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600381187",
+    "gtin14": "00062600381187",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961358",
+    "gtin14": "00062600961358",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600700827",
+    "gtin14": "00062600700827",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600700827",
+    "gtin14": "00062600700827",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962799",
+    "gtin14": "00062600962799",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962799",
+    "gtin14": "00062600962799",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962799",
+    "gtin14": "00062600962799",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "3574661112800",
+    "gtin14": "03574661112800",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600301147",
+    "gtin14": "00062600301147",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600301147",
+    "gtin14": "00062600301147",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600301147",
+    "gtin14": "00062600301147",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600200624",
+    "gtin14": "00062600200624",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600375865",
+    "gtin14": "00062600375865",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600375865",
+    "gtin14": "00062600375865",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600375865",
+    "gtin14": "00062600375865",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600700971",
+    "gtin14": "00062600700971",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600700971",
+    "gtin14": "00062600700971",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600700971",
+    "gtin14": "00062600700971",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600246110",
+    "gtin14": "00062600246110",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600246110",
+    "gtin14": "00062600246110",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600246110",
+    "gtin14": "00062600246110",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600825032",
+    "gtin14": "00062600825032",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600410061",
+    "gtin14": "00062600410061",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600410061",
+    "gtin14": "00062600410061",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600410061",
+    "gtin14": "00062600410061",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600338938",
+    "gtin14": "00062600338938",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338938",
+    "gtin14": "00062600338938",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600338938",
+    "gtin14": "00062600338938",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600380562",
+    "gtin14": "00062600380562",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600400970",
+    "gtin14": "00062600400970",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600400970",
+    "gtin14": "00062600400970",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600400970",
+    "gtin14": "00062600400970",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600380197",
+    "gtin14": "00062600380197",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962171",
+    "gtin14": "00062600962171",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962171",
+    "gtin14": "00062600962171",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962171",
+    "gtin14": "00062600962171",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600300485",
+    "gtin14": "00062600300485",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600300485",
+    "gtin14": "00062600300485",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600300485",
+    "gtin14": "00062600300485",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962331",
+    "gtin14": "00062600962331",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962331",
+    "gtin14": "00062600962331",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600962881",
+    "gtin14": "00062600962881",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962881",
+    "gtin14": "00062600962881",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600300751",
+    "gtin14": "00062600300751",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600300751",
+    "gtin14": "00062600300751",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600300751",
+    "gtin14": "00062600300751",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600284938",
+    "gtin14": "00062600284938",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600284938",
+    "gtin14": "00062600284938",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600284938",
+    "gtin14": "00062600284938",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961303",
+    "gtin14": "00062600961303",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961303",
+    "gtin14": "00062600961303",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961341",
+    "gtin14": "00062600961341",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600420015",
+    "gtin14": "00062600420015",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600420015",
+    "gtin14": "00062600420015",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600420015",
+    "gtin14": "00062600420015",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600246103",
+    "gtin14": "00062600246103",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600246103",
+    "gtin14": "00062600246103",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600246103",
+    "gtin14": "00062600246103",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600100788",
+    "gtin14": "00062600100788",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600100788",
+    "gtin14": "00062600100788",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600100788",
+    "gtin14": "00062600100788",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600963239",
+    "gtin14": "00062600963239",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600953025",
+    "gtin14": "00062600953025",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600953025",
+    "gtin14": "00062600953025",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600953025",
+    "gtin14": "00062600953025",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600306890",
+    "gtin14": "00062600306890",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600306890",
+    "gtin14": "00062600306890",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600306890",
+    "gtin14": "00062600306890",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964311",
+    "gtin14": "00062600964311",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964311",
+    "gtin14": "00062600964311",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964311",
+    "gtin14": "00062600964311",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600953674",
+    "gtin14": "00062600953674",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600953674",
+    "gtin14": "00062600953674",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600953674",
+    "gtin14": "00062600953674",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962430",
+    "gtin14": "00062600962430",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600962430",
+    "gtin14": "00062600962430",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600945143",
+    "gtin14": "00062600945143",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600945143",
+    "gtin14": "00062600945143",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600945143",
+    "gtin14": "00062600945143",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600960269",
+    "gtin14": "00062600960269",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600960269",
+    "gtin14": "00062600960269",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600351241",
+    "gtin14": "00062600351241",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600351241",
+    "gtin14": "00062600351241",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600351241",
+    "gtin14": "00062600351241",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961433",
+    "gtin14": "00062600961433",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961433",
+    "gtin14": "00062600961433",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961433",
+    "gtin14": "00062600961433",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600460189",
+    "gtin14": "00062600460189",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600460189",
+    "gtin14": "00062600460189",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600309280",
+    "gtin14": "00062600309280",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961488",
+    "gtin14": "00062600961488",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961488",
+    "gtin14": "00062600961488",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961488",
+    "gtin14": "00062600961488",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600450081",
+    "gtin14": "00062600450081",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600450081",
+    "gtin14": "00062600450081",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600450081",
+    "gtin14": "00062600450081",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600945488",
+    "gtin14": "00062600945488",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600451033",
+    "gtin14": "00062600451033",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600451033",
+    "gtin14": "00062600451033",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600451033",
+    "gtin14": "00062600451033",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600963079",
+    "gtin14": "00062600963079",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963079",
+    "gtin14": "00062600963079",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600963079",
+    "gtin14": "00062600963079",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600946874",
+    "gtin14": "00062600946874",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600946874",
+    "gtin14": "00062600946874",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600946874",
+    "gtin14": "00062600946874",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600919663",
+    "gtin14": "00062600919663",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600919663",
+    "gtin14": "00062600919663",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600919663",
+    "gtin14": "00062600919663",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600959966",
+    "gtin14": "00062600959966",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959966",
+    "gtin14": "00062600959966",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959966",
+    "gtin14": "00062600959966",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600235732",
+    "gtin14": "00062600235732",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600235732",
+    "gtin14": "00062600235732",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600235732",
+    "gtin14": "00062600235732",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961495",
+    "gtin14": "00062600961495",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961495",
+    "gtin14": "00062600961495",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961495",
+    "gtin14": "00062600961495",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600410009",
+    "gtin14": "00062600410009",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600410009",
+    "gtin14": "00062600410009",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600410009",
+    "gtin14": "00062600410009",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600959805",
+    "gtin14": "00062600959805",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959805",
+    "gtin14": "00062600959805",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600959805",
+    "gtin14": "00062600959805",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600430182",
+    "gtin14": "00062600430182",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600430182",
+    "gtin14": "00062600430182",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600430182",
+    "gtin14": "00062600430182",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600230720",
+    "gtin14": "00062600230720",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600230720",
+    "gtin14": "00062600230720",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600230720",
+    "gtin14": "00062600230720",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600301130",
+    "gtin14": "00062600301130",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600301130",
+    "gtin14": "00062600301130",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600301130",
+    "gtin14": "00062600301130",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964670",
+    "gtin14": "00062600964670",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964670",
+    "gtin14": "00062600964670",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964670",
+    "gtin14": "00062600964670",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600960030",
+    "gtin14": "00062600960030",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961426",
+    "gtin14": "00062600961426",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961426",
+    "gtin14": "00062600961426",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961792",
+    "gtin14": "00062600961792",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961792",
+    "gtin14": "00062600961792",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600961792",
+    "gtin14": "00062600961792",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600230706",
+    "gtin14": "00062600230706",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600230706",
+    "gtin14": "00062600230706",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600230706",
+    "gtin14": "00062600230706",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600420053",
+    "gtin14": "00062600420053",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600420053",
+    "gtin14": "00062600420053",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600946843",
+    "gtin14": "00062600946843",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600306845",
+    "gtin14": "00062600306845",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600306845",
+    "gtin14": "00062600306845",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600306845",
+    "gtin14": "00062600306845",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600964908",
+    "gtin14": "00062600964908",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964908",
+    "gtin14": "00062600964908",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600964908",
+    "gtin14": "00062600964908",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600965240",
+    "gtin14": "00062600965240",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600965240",
+    "gtin14": "00062600965240",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600965240",
+    "gtin14": "00062600965240",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600460202",
+    "gtin14": "00062600460202",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600460202",
+    "gtin14": "00062600460202",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600460202",
+    "gtin14": "00062600460202",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600475527",
+    "gtin14": "00062600475527",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961037",
+    "gtin14": "00062600961037",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600961037",
+    "gtin14": "00062600961037",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600500601",
+    "gtin14": "00062600500601",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "ecommerceContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600500601",
+    "gtin14": "00062600500601",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "updated"
+  },
+  {
+    "gtin": "062600500601",
+    "gtin14": "00062600500601",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "planoContent",
+    "state": "brand-new"
+  },
+  {
+    "gtin": "062600380548",
+    "gtin14": "00062600380548",
+    "gln": "0068780050639",
+    "baseGln": "0062600000019",
+    "ims": "marketingContent",
+    "state": "brand-new"
+  }
+]
