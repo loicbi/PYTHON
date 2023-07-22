@@ -1352,25 +1352,29 @@ ctx = snowflake.connector.connect(
 )
 cs = ctx.cursor()
 cs.execute(
-    "create or replace transient table DEMO_DB.ALF_DB_WH.GS1_STATE_GTIN (gtin varchar(30), gtin14 varchar(30), gln varchar(30), baseGln varchar(30),ims varchar(30),state varchar(30))")
+    "create or replace transient table DEMO_DB.ALF_DB_WH.GS1_STATE_GTIN (data_state_gtin variant)")
 # cs.execute(
 #     "create or replace transient table DEMO_DB.ALF_DB_WH.GS1_STATE_GTIN (gtin varchar(30), gtin14 varchar(30), gln varchar(30), baseGln varchar(30),ims varchar(30),state varchar(30))")
+# for i in range(len(result_state_gtin_list_existing)):
+#     gtin = result_state_gtin_list_existing[i]['gtin']
+#     # print(gtin)
+#     gtin14 = result_state_gtin_list_existing[i]['gtin14']
+#
+#     gln = result_state_gtin_list_existing[i]['gln']
+#     baseGln = result_state_gtin_list_existing[i]['baseGln']
+#     ims = result_state_gtin_list_existing[i]['ims']
+#     state = result_state_gtin_list_existing[i]['state']
+#
+#     # cs.execute(
+#     #     "insert into DEMO_DB.ALF_DB_WH.GS1_STATE_GTIN (select '%s','%s','%s','%s','%s','%s')" % (
+#     #     gtin, gtin14, gln, baseGln, ims, state))
+
 for i in range(len(result_state_gtin_list_existing)):
-    gtin = result_state_gtin_list_existing[i]['gtin']
-    # print(gtin)
-    gtin14 = result_state_gtin_list_existing[i]['gtin14']
+    data_state_json = result_state_gtin_list_existing[i]
 
-    gln = result_state_gtin_list_existing[i]['gln']
-    baseGln = result_state_gtin_list_existing[i]['baseGln']
-    ims = result_state_gtin_list_existing[i]['ims']
-    state = result_state_gtin_list_existing[i]['state']
-
-    cs.execute(
-        "insert into DEMO_DB.ALF_DB_WH.GS1_STATE_GTIN (select '%s','%s','%s','%s','%s','%s')" % (
-        gtin, gtin14, gln, baseGln, ims, state))
-
+    cs.execute("insert into DEMO_DB.ALF_DB_WH.GS1_STATE_GTIN (select  PARSE_JSON('%s'))" % (json.dumps(data_state_json)))
     print(
-        f"-- insert into DEMO_DB.ALF_DB_WH.GS1_STATE_GTIN (select  '{gtin}', '{gtin14}', '{gln}', '{baseGln}', '{ims}', '{state}')")
+        "insert into DEMO_DB.ALF_DB_WH.GS1_STATE_GTIN (select  PARSE_JSON('%s'))" % (json.dumps(data_state_json)))
     # cs.execute(f"insert into DEMO_DB.ALF_DB_WH.GS1_STATE_GTIN (select  '{gtin}', '{gtin14}', '{gln}', '{baseGln}', '{ims}', '{state}')")
     print('success')
 

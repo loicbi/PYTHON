@@ -26,3 +26,9 @@ duckdb.sql(
 # JSON
 duckdb.sql(
     'SELECT * FROM "C:/Users/aseka/source/_________LOIC_BI__________/_______Learning__All/SnowFlake/python/datasets/example.json"').show()
+
+
+
+# gs1
+duckdb.sql(
+    'SELECT DATA_STATE_GTIN.basegln, DATA_STATE_GTIN.gln, DATA_STATE_GTIN.ims , DATA_STATE_GTIN.state  FROM "C:/Users/aseka/source/_________LOIC_BI__________/_______Learning__All/SnowFlake/python/datasets/example2.json"').show()
