@@ -1,0 +1,58 @@
+{
+  'identification': {
+    'gtin': '062600443052',
+    'gtin14': '00062600443052',
+    'targetMarketCountryCode': '124',
+    'catalogueGln': '0068780050639',
+    'dataProviderName': 'Johnson & Johnson Inc.',
+    'baseGln': '0062600000019'
+  },
+  'marketingContent': [
+    {
+      'digitalAssetMarketing': [
+        {
+          'digitalAssetAngleMarketing': 'C',
+          'digitalAssetFacingMarketing': '1',
+          'digitalAssetFormatMarketing': 'TIF',
+          'digitalAssetGDTIMarketing': '754000000014100000000096289868',
+          'digitalAssetImageCategoryMarketing': '2',
+          'digitalAssetImageTypeMarketing': 'A',
+          'digitalAssetImageVersionDateTimeMarketing': '2022-02-08T12:20:14.587-05:00',
+          'digitalAssetLanguageMarketing': 'ml',
+          'digitalAssetStateMarketing': '0'
+        },
+        {
+          'digitalAssetAngleMarketing': 'C',
+          'digitalAssetFacingMarketing': '1',
+          'digitalAssetFormatMarketing': 'TIF',
+          'digitalAssetGDTIMarketing': '754000000014100000000096289980',
+          'digitalAssetImageCategoryMarketing': '2',
+          'digitalAssetImageTypeMarketing': 'A',
+          'digitalAssetImageVersionDateTimeMarketing': '2022-02-08T12:20:14.587-05:00',
+          'digitalAssetLanguageMarketing': 'ml',
+          'digitalAssetStateMarketing': '1'
+        }
+      ],
+      'identification': {
+        'excellenceLevel': '2'
+      },
+      'tpnBrandEnglish': 'NEUTROGENA RAPID WRINKLE REPAIR',
+      'tpnBrandFrench': 'NEUTROGENA RAPID WRINKLE REPAIR',
+      'tpnFlavorFraganceColorEnglish': 'RETINOL PRO+',
+      'tpnFlavorFraganceColorFrench': 'RETINOL PRO+',
+      'tpnFunctionalNameEnglish': 'SERUM',
+      'tpnFunctionalNameFrench': 'RETINOL PRO+',
+      'tpnGPCCode': '10000356',
+      'tpnIandVCode': '401202',
+      'tpnItemDimensionsImperialWeight': '0.24700',
+      'tpnItemDimensionsImperialWeightUOM': 'LB',
+      'tpnItemDimensionsMetricWeight': '0.11200',
+      'tpnItemDimensionsMetricWeightUOM': 'KG',
+      'tpnPackagingForm': 'BOX',
+      'tpnPackagingMaterial': '76',
+      'tpnsize': '30 ML',
+      'tpnShortDescEnglish': 'NEUTROGENA RWR SRM RETINOL PRO+',
+      'tpnShortDescFrench': 'NEUTROGENA RWR SRM RETINOL PRO+'
+    }
+  ]
+}
